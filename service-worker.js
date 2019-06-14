@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://zzdjk6.github.io/forever-ever-never-note-demo/precache-manifest.3bad892cb86767758f536e069d588f3e.js"
+  "https://zzdjk6.github.io/forever-ever-never-note-demo/precache-manifest.46a7f9cd69523cea711fec796ef5b946.js"
 );
 
 workbox.core.skipWaiting();
